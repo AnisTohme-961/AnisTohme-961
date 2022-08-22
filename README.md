@@ -6,5 +6,5 @@
 :coffee: Coffeeholic \
 💬 Self Motivation and Dedication are the most important factors to reach our goals \
 :email: anistohme@hotmail.com || anistohme71@gmail.com \
-⚡ Fun facts: Singing :microphone:, listening to :musical_note:, and never give up :muscle: \
+⚡ Fun facts: Singing :microphone:, listening to :musical_note:, and never give up :muscle:
 
