@@ -1,4 +1,4 @@
-# My Bio 
+# *My Bio*
 
 :computer: I am a Computer Science Graduate \
 🧑‍🏫 Private Tutor in Math, Physics and Chemistry who enjoys every single moment of it \
