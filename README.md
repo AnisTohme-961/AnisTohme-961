@@ -1,5 +1,6 @@
 # *_My Bio_*
 
+- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `#1589F0`
 :computer: I am a Computer Science Graduate \
 🧑‍🏫 Private Tutor in Math, Physics and Chemistry who enjoys every single moment of it \
 :beginner: I am currently learning BackEnd technologies and NoSQL Database (NodeJS, ExpressJS, MongoDb, and Mongoose) \
