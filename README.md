@@ -5,6 +5,6 @@
 :beginner: I am currently learning BackEnd technologies and NoSQL Database (NodeJS, ExpressJS, MongoDb, and Mongoose) \
 :coffee: Coffeeholic \
 💬 Self Motivation and Dedication are the most important factors to reach our goals \
-:email: anistohme@hotmail.com || anistohme71@gmail.com \
+:email: anistohme@hotmail.com | | anistohme71@gmail.com \
 ⚡ Fun facts: Singing :microphone:, listening to :musical_note:, and never give up :muscle:
 
